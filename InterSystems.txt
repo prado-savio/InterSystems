@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+Ver:
+""""
+ObjectScript + classes
+IRIS: APIs modernas
+FHIR (REST/JSON)
+HL7
+recursos RESTful e JSON
+Macros como $$$OK
+
+🔹 ObjectScript clássico (Mumps style)
+🔹 Classes modernas
+🔹 SQL no IRIS
+🔹 REST API
+
+
+
+
+Fazer:
+""""""
+ - pego um trecho MUMPS/Cache antigo seu e mostro lado-a-lado como ficaria em ObjectScript moderno (com chamadas REST/FHIR se quiser)
+ - mostro um exemplo de converter uma mensagem HL7v2 para um recurso FHIR Patient com uma função/rotina em ObjectScript
+ - %Persistent - em vez de globals?
+
+
+
+---
