@@ -3,7 +3,6 @@
         "active": false,
         "host": "localhost",
         "port": 52773,
-        "ns": "USER",
         "username": "admin",
         "password": ".mau2020NOS$"
     }
